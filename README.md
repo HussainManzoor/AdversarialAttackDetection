@@ -1,5 +1,5 @@
 # AdversarialAttackDetection
-This repository contains the demo for the paper "Reconstruction-based Adversarial Attack Detection on Deep Learning Model in Vision-based Autonomous Driving Systems"
+This repository contains the demo for the paper "Reconstruction-based Adversarial Attack Detection on Deep Learning Model in Vision-based Autonomous Driving Systems."
 
 **Demo Linke for Gaussian noise Perturbation-based Advesarial Attack**
 [Gaussian Nosie Perturbation-based Adversarial Attack](https://youtu.be/jUgBWJme5pA)
