@@ -21,3 +21,7 @@ This repository contains the demo for the paper "Reconstruction-based Adversaria
 
 **Caption**
 The lift pane in the uppermost window shows the adversarially perturbed image frames, while the right window shows the normal image frame. The bottom window shows the impact of these attacks on autonomous driving systems.
+
+# Description of Experiment
+In this experiment, we used the modified NVIDIA-2 model for self-driving cars. It was trained using imitation learning. After training the model, we applied adversarial attacks to verify its robustness against adversarial attacks. Our detailed experimental results showed that the start-of-the-art models are also vulnerable to adversarial attacks. We also proposed a deep autoencoder-based adversarial attack detection that effectively detects any input image-specific adversarial attacks. The detailed experimental results can be found in the manuscript. 
+This experiment is a part of the ongoing research in which we are making an adversarial testing tool. The tool soon be published on our GitHub repository. 
