@@ -47,10 +47,11 @@ The lift pane in the uppermost window shows the adversarially perturbed image fr
 
 Impact of adversarial attack on the original trajectory of the target ADS. These samples were collected when the impulse noise-based adversarial attack was applied. (a) represents the initial position, (b) and (c) show the impact of the attack. We can clearly see that the ADS started deviating from its original trajectory. (d) shows that ADS is no longer driving on the road and crashed on the roadside.
 
-**Right Deviation due to Blackbox advesarial attacks (Square, HopSkipJump, and Decision-based/boundary attack)**
+**Right Deviation due to Blackbox adversarial attacks (Square, HopSkipJump, and Decision-based/boundary attack)**
+
 ![Right Deviation](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/345019bd-8aa5-4559-a93a-5cb8b6e39244)
 
-Impact of modefied blackbox adversarial attack on the original trajectory of the target ADS. These samples were collected when the Square-based adversarial attack was applied. (a) represents the initial position, (b) and (c) show the impact of the attack. We can clearly see that the ADS started deviating from its original trajectory towards right. (d) shows that ADS is no longer driving on the road and crashed on the roadside.
+Impact of a moderated blackbox adversarial attack on the original trajectory of the target ADS. These samples were collected when the Square-based adversarial attack was applied. (a) represents the initial position, (b) and (c) show the impact of the attack. We can clearly see that the ADS started deviating from its original trajectory towards right. (d) shows that ADS is no longer driving on the road and crashed on the roadside.
 
 **Deviation Due to Adversarial Attacks**
 Sample deviation in the model's final output. 
