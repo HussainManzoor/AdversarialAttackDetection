@@ -19,8 +19,14 @@ This repository contains the demo for the paper "Reconstruction-based Adversaria
 
 **Demo Link for Decision-based/Boundary Attack**
 
-
 [Demo Video for Decision-based/boundary Attack](https://youtu.be/7shB1iXJnuw)
+
+**Demo Video for HopSkipJum Adversarial Attack**
+
+[Demo Video for HopSkipJum Adversarial Attack](https://youtu.be/EHZ8q8x6DIA)
+**Demo Video for Square Adversarial Attack**
+
+[Demo Video for Square Adversarial Attack](https://youtu.be/PAgKsws44Kg)
 
 **Caption**
 The lift pane in the uppermost window shows the adversarially perturbed image frames, while the right window shows the normal image frames. The bottom window shows the impact of these attacks on autonomous driving systems.
