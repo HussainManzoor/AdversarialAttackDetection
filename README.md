@@ -43,17 +43,15 @@ The lift pane in the uppermost window shows the adversarially perturbed image fr
 ![Sample Deviation](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/b5a7cb8c-d9a1-46ce-8990-ef303eb8caa9)
 
 Impact of adversarial attack on the original trajectory of the target ADS. These samples were collected when the impulse noise-based adversarial attack was applied. (a) represents the initial position, (b) and (c) show the impact of the attack. We can clearly see that the ADS started deviating from its original trajectory. (d) shows that ADS is no longer driving on the road and crashed on the roadside.
+**Right Deviation due to Blackbox advesarial attacks (Square, HopSkipJump, and Decision-based/boundary attack)**
+
+![image](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/616d5255-a477-4255-9999-f04d1aca21c0)
 
 **Deviation Due to Adversarial Attacks**
-**LEFT Deviation due to Epslon-based Attacks (Shot, Gaussian, Impulse and Speckle Noised-based adversarial attacks)**
-
 Sample deviation in the model's final output. 
 
 ![Deviation in steering Angles](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/8fc00543-9ccb-4037-a484-7e07dfce64c2)
 
-**Right Deviation due to Blackbox advesarial attacks (Square, HopSkipJump, and Decision-based/boundary attack)**
-
-![image](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/616d5255-a477-4255-9999-f04d1aca21c0)
 
 
 
