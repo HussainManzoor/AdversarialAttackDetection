@@ -40,6 +40,8 @@ The lift pane in the uppermost window shows the adversarially perturbed image fr
 ![Video Caption](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/cf5981f0-baa3-4aad-8681-0c93f198d381)
 
 # Impact of Adversarial Attack on Model Robustness
+
+**Left Deviation due to Eplson-based advesarial attacks (Shot, Gaussian, Impulse, and Speckle noised-based adversarial attacks)**
 ![Left Deviation Deviation](https://github.com/HussainManzoor/AdversarialAttackDetection/assets/133944553/b5a7cb8c-d9a1-46ce-8990-ef303eb8caa9)
 
 Impact of adversarial attack on the original trajectory of the target ADS. These samples were collected when the impulse noise-based adversarial attack was applied. (a) represents the initial position, (b) and (c) show the impact of the attack. We can clearly see that the ADS started deviating from its original trajectory. (d) shows that ADS is no longer driving on the road and crashed on the roadside.
